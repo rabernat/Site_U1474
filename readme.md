@@ -8,6 +8,8 @@ Over the past year, I have been collecting data on variations in sediment proven
 
 ![Agulhas](http://publications.iodp.org/proceedings/361/361PR_F03.png) 
 
+Figure 1. Map of study area and sites from Expedition 361. Major surface ocean currents are shown in yellow. Main river catchments delivering terrigenous sediment are shown with blue and green outlines. My focus is site U1474 off the coast of South Africa.
+
 ## __GOALS__
 
 My goal is to determine whether the changes observed in the K-Ar record are coeval with any variations in physical properties which are also linked to terrigenous sediment deposition. By determining wether K-Ar ages of mud are coeval with variations in physical properties I hope to show whether the K-Ar age changes can represent terrigenous sediment processes or something different about the sediment transport and deposition. 
