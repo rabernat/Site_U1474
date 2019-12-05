@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mwindec/Site_U1474/blob/master/Final_Project.ipynb/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mwindec/Site_U1474/master)
 
 # __Final Project__
 
